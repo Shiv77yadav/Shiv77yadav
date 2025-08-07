@@ -15,7 +15,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv77yadav&layout=compact&theme=tokyonight&langs_count=8&hide=python,jupyter%20notebook)
 
 
-![Snake animation](https://github.com/Shiv77yadav/Shiv77yadav/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/github-contribution-grid-snake.svg)
+
 
 
 ### 🔝 Top Contributed Repo
