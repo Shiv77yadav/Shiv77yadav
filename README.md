@@ -14,7 +14,7 @@
 ![Shiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiv77yadav&show_icons=true&theme=tokyonight&hide=prs,issues&custom_title=Shiv's%20GitHub%20Stats&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv77yadav&layout=compact&theme=tokyonight&langs_count=8&hide=python,jupyter%20notebook)
 
-![snake gif](https://Shiv77yadav.github.io/Shiv77yadav/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
 
