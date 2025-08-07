@@ -16,7 +16,8 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.svg)
+
 
 
 
