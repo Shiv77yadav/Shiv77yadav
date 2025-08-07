@@ -11,13 +11,13 @@
 ![Snake animation](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.svg)
 
 # 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiv77yadav&show_icons=true&theme=dark" width="400" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv77yadav&layout=compact&theme=dark" width="400" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiv77yadav&show_icons=true&theme=radical" height="200"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv77yadav&layout=compact&theme=radical" height="200"/>
+</p>
 
 <br>
 
