@@ -1,7 +1,4 @@
-# 💫 About Me:
-<!--
-  Professional GitHub Profile README for Shiv Yadav
--->
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&weight=700&pause=1200&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiv+Yadav;Student+Developer+%7C+ECC+%40+MBM+University;AI%2FRobotics+Enthusiast+%7C+DSA+with+C%2B%2B" alt="Typing SVG" />
@@ -14,7 +11,7 @@
   <img src="https://img.shields.io/badge/Focus-Problem%20Solving-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Branch-Electronics%20%26%20Computer%20Engineering-6aa84f?style=for-the-badge" />
 </p>
-👋 Hi! I'm Shiv Kumar Yadav <br>A curious builder who believes in learning by doing!<br>Currently pursuing Electronics and Computer Engineering and loving the journey from C++ basics to building real-world software.<br><br>🛠️ I’m currently working on:<br>💻 A C++-based File Compressor project (no STL, pure logic!)<br>🍽️ A Restaurant Menu Ordering System with advanced features<br>💬 A Multiplayer Chat Room Simulator using C++<br><br>🌱 I’m currently learning:<br>⚙️ DSA with C++<br>🧱 Frontend Development (HTML, CSS, JS)<br>🔐 Git, GitHub & Deployment<br><br>⚡Fun fact:<br>I believe: "Code se pehle sochna padta hai, tabhi kuch naya banta hai!"<br>🎥 Also experimenting with story-based reels + AI visuals!
+A curious builder who believes in learning by doing!<br><br>🛠️ I’m currently working on:<br>💻 A C++-based File Compressor project (no STL, pure logic!)<br>🍽️ A Restaurant Menu Ordering System with advanced features<br>💬 A Multiplayer Chat Room Simulator using C++<br><br>🌱 I’m currently learning:<br>⚙️ DSA with C++<br>🧱 Frontend Development (HTML, CSS, JS)<br>🔐 Git, GitHub & Deployment<br><br>⚡Fun fact:<br>I believe: "Code se pehle sochna padta hai, tabhi kuch naya banta hai!"<br>🎥 Also experimenting with story-based reels + AI visuals!
 
 
 ## 🌐 Socials:
