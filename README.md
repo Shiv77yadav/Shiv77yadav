@@ -11,49 +11,7 @@
   <img src="https://img.shields.io/badge/Focus-Problem%20Solving-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Branch-Electronics%20%26%20Computer%20Engineering-6aa84f?style=for-the-badge" />
 </p>
-<!-- Paste this in place of the current typing SVG -->
-<p align="center">
-  <svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
-    <defs>
-      <linearGradient id="g1" x1="0" x2="1">
-        <stop offset="0%" stop-color="#00d4ff"/>
-        <stop offset="50%" stop-color="#7b61ff"/>
-        <stop offset="100%" stop-color="#ff7bb0"/>
-      </linearGradient>
-      <mask id="m1">
-        <rect x="0" y="0" width="900" height="120" fill="white"/>
-      </mask>
-    </defs>
 
-    <!-- Background glow -->
-    <rect x="0" y="0" width="900" height="120" fill="#0b0f16" rx="6"/>
-    <g filter="url(#f1)">
-      <rect x="0" y="0" width="900" height="120" fill="transparent"/>
-    </g>
-
-    <!-- Main text -->
-    <text x="50%" y="44" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="34" fill="url(#g1)">
-      Hi 👋, I'm Shiv Yadav
-    </text>
-
-    <!-- Sub-typing line with reveal animation -->
-    <g transform="translate(0,72)">
-      <text id="t1" x="50%" y="0" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="600" font-size="18" fill="#cfd8e3">
-        <tspan id="typed" font-weight="600">Student Developer • DSA with C++ • Web Dev</tspan>
-      </text>
-
-      <!-- reveal mask (animates width to create typing effect) -->
-      <rect x="50%" y="-18" width="0" height="26" rx="2" transform="translate(-300,0)" fill="white" mask="url(#m1)">
-        <animate attributeName="width" from="0" to="600" dur="2.8s" begin="0.3s" fill="freeze" />
-      </rect>
-
-      <!-- blinking cursor -->
-      <rect x="50%" y="-18" width="3" height="26" transform="translate(6,0) translate(300,0)" fill="#cfd8e3">
-        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-      </rect>
-    </g>
-  </svg>
-</p>
 
 𝕬 𝖈𝖚𝖗𝖎𝖔𝖚𝖘 𝖇𝖚𝖎𝖑𝖉𝖊𝖗 𝖜𝖍𝖔 𝖇𝖊𝖑𝖎𝖊𝖛𝖊𝖘 𝖎𝖓 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝖇𝖞 𝖉𝖔𝖎𝖓𝖌!<br><br>🛠️ I’m currently working on:<br>💻 A C++-based File Compressor project (no STL, pure logic!)<br>🍽️ A Restaurant Menu Ordering System with advanced features<br>💬 A Multiplayer Chat Room Simulator using C++<br><br>🌱 I’m currently learning:<br>⚙️ DSA with C++<br>🧱 Frontend Development (HTML, CSS, JS)<br>🔐 Git, GitHub & Deployment<br><br>⚡Fun fact:<br>I believe: "Code se pehle sochna padta hai, tabhi kuch naya banta hai!"<br>🎥 Also experimenting with story-based reels + AI visuals!
 
