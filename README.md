@@ -1,3 +1,74 @@
+<!-- Paste this SVG at the top of README.md -->
+<p align="center">
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Typing header for Shiv Yadav">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#7b61ff"/>
+      <stop offset="100%" stop-color="#ff7bb0"/>
+    </linearGradient>
+
+    <!-- mask that will expand to reveal each line -->
+    <mask id="revealMask">
+      <rect x="0" y="0" width="900" height="220" fill="white"/>
+    </mask>
+
+    <style>
+      .bg { fill:#071021; rx:10; }
+      .title { font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-weight:800; font-size:36px; fill:url(#g); }
+      .line  { font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-weight:600; font-size:18px; fill:#cbd6e6; }
+      .mono  { font-family: "SFMono-Regular", Menlo, Monaco, "Roboto Mono", monospace; font-size:14px; fill:#a6b5d0; }
+      .cursor { fill:#cbd6e6; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect class="bg" width="900" height="220" rx="10"/>
+
+  <!-- Title (already visible) -->
+  <text x="50%" y="62" text-anchor="middle" class="title">Hi 👋, I'm Shiv Yadav</text>
+
+  <!-- LINE 1: Project 1 (typing reveal) -->
+  <g transform="translate(60,110)">
+    <text class="line" x="0" y="0">• AI-Powered Accident Prediction</text>
+    <!-- mask rectangle that expands to reveal the text (simulate typing) -->
+    <rect x="0" y="-18" width="0" height="26" fill="#071021">
+      <animate attributeName="width" from="0" to="560" dur="2.2s" begin="0.8s" fill="freeze" />
+    </rect>
+    <!-- blinking cursor (follows end after reveal) -->
+    <rect class="cursor" x="562" y="-18" width="3" height="20" rx="1" fill="#cbd6e6" opacity="0">
+      <set attributeName="opacity" to="1" begin="3s" fill="freeze" />
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="3s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- LINE 2: Project 2 -->
+  <g transform="translate(60,150)">
+    <text class="line" x="0" y="0">• Restaurant Menu Order System (C++)</text>
+    <rect x="0" y="-18" width="0" height="26" fill="#071021">
+      <animate attributeName="width" from="0" to="720" dur="2.4s" begin="3.6s" fill="freeze" />
+    </rect>
+    <rect class="cursor" x="722" y="-18" width="3" height="20" rx="1" fill="#cbd6e6" opacity="0">
+      <set attributeName="opacity" to="1" begin="6.2s" fill="freeze" />
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="6.2s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- LINE 3: Learning -->
+  <g transform="translate(60,190)">
+    <text class="mono" x="0" y="0">• Currently: DSA with C++ · Web Development (HTML, CSS, JS)</text>
+    <rect x="0" y="-14" width="0" height="20" fill="#071021">
+      <animate attributeName="width" from="0" to="820" dur="3s" begin="7.6s" fill="freeze" />
+    </rect>
+    <rect class="cursor" x="822" y="-14" width="3" height="16" rx="1" fill="#cbd6e6" opacity="0">
+      <set attributeName="opacity" to="1" begin="10.8s" fill="freeze" />
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="10.8s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
+</p>
+
+
 
 
 <p align="center">
