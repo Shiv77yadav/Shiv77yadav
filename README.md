@@ -14,8 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Hacker Matrix" width="400"/>
+  <!-- Dark Hacker Vibe GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Hacker" width="400"/>
 </p>
+
 
 
 <p align="center">
