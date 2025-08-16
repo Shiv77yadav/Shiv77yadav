@@ -26,6 +26,14 @@
 
 ---
 
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=Shiv77yadav&style=for-the-badge&color=0e75b6">
+<img src="https://komarev.com/ghpvc/?username=Shiv77yadav&style=for-the-badge&color=0e75b6" alt="Profile views" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Problem%20Solving-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Branch-Electronics%20%26%20Computer%20Engineering-6aa84f?style=for-the-badge" />
+</p>
+
 ## 👨 About Me  
 <h1>𝕬 𝖈𝖚𝖗𝖎𝖔𝖚𝖘 𝖇𝖚𝖎𝖑𝖉𝖊𝖗 𝖜𝖍𝖔 𝖇𝖊𝖑𝖎𝖊𝖛𝖊𝖘 𝖎𝖓 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝖇𝖞 𝖉𝖔𝖎𝖓𝖌</h1>
 
