@@ -30,7 +30,7 @@
 <a href="https://komarev.com/ghpvc/?username=Shiv77yadav&style=for-the-badge&color=0e75b6">
 <img src="https://komarev.com/ghpvc/?username=Shiv77yadav&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </a>
-<img src="https://img.shields.io/badge/Focus-Problem%20Solving-blue?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Branch-Electronics%20%26%20Computer%20Engineering-6aa84f?style=for-the-badge" />
 </p>
 
