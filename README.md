@@ -12,9 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Hacker" width="230"/>
+  <!-- Night Coder Boy GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       alt="Night Coder Boy" width="300"/>
 </p>
-
 
 
 <p align="center">
