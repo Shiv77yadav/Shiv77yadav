@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">
-  <!-- Dark Hacker Vibe GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Hacker" width="400"/>
+  <img src="https://media.giphy.com/media/KoE6pATrQJO2M/giphy.gif" alt="Dark Hacker" width="250"/>
 </p>
 
 
