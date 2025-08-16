@@ -12,9 +12,8 @@
 </p>
 
 <p align="center">
-  <!-- Night Coder Boy GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-       alt="Night Coder Boy" width="300"/>
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" 
+       alt="Cyberpunk Coder" width="300"/>
 </p>
 
 
