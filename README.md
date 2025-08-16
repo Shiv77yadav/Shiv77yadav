@@ -45,9 +45,25 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&weight=700&pause=1200&center=true&vCenter=true&width=900&lines=Let's+connect+and+build+mind-blowing+projects;Open+to+collabs+%26+internships" alt="Let's connect typing banner" />
+  <!-- Red Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&weight=700&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=Let's+connect+and+build+mind-blowing+projects;Open+to+collabs+%26+internships" alt="Let's connect typing banner" />
 </p>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiv.77yadav/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-kumar-yadav77/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivyadav33097@gmail.com)
+
+<p align="center">
+  <!-- Instagram -->
+  <a href="https://instagram.com/shiv.77yadav" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/shiv-kumar-yadav77/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+  </a>
+  <!-- Email -->
+  <a href="mailto:shivyadav33097@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="50" alt="Email"/>
+  </a>
+</p>
+
 
 # 📊 GitHub Stats:
 
