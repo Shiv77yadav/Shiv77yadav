@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KoE6pATrQJO2M/giphy.gif" alt="Dark Hacker" width="250"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Hacker" width="230"/>
 </p>
 
 
