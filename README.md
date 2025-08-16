@@ -12,9 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP9F64tjF2hXLG/giphy.gif" 
-       alt="Anime Night Coder" width="300"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
+       alt="Late Night Coffee Coder" width="300"/>
 </p>
+
 
 
 
