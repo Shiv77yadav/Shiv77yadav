@@ -51,27 +51,39 @@
 </p>
 
 
-## 🌐 Connect with Me  
+## 🤝 Connect With Me
 
 <p align="center">
-  <!-- Red Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&weight=700&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=Let's+connect+and+build+mind-blowing+projects;Open+to+collabs+%26+internships" alt="Let's connect typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1200&color=FF3B3B&center=true&vCenter=true&width=900&lines=Let%27s+connect+%26+build+mind-blowing+projects;Open+to+collabs+%E2%80%A2+internships+%E2%80%A2+ideas" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <!-- Instagram -->
-  <a href="https://instagram.com/shiv.77yadav" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shiv-kumar-yadav77/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Email -->
-  <a href="mailto:shivyadav33097@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="50" alt="Email"/>
+  <a href="https://instagram.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <b>Let’s build something exceptional.</b> 🚀
+</p>
+
 
 
 # 📊 GitHub Stats:
