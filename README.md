@@ -70,22 +70,19 @@
   <a href="https://instagram.com/your-username" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/your-username" target="_blank">
+  
+  <a href="https://leetcode.com/u/shiv_yadav01/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/your-username" target="_blank">
+  <a href="https://www.codechef.com/users/shivyadav_07" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
----
+-
 
-<p align="center">
-  <b>Let’s build something exceptional.</b> 🚀
-</p>
+    <h1 align="center "> 𝕷𝖊𝖙’𝖘 𝖇𝖚𝖎𝖑𝖉 𝖘𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖊𝖝𝖈𝖊𝖕𝖙𝖎𝖔𝖓𝖆𝖑.</h1>🚀
+  
 
 
 
