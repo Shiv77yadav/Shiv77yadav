@@ -34,7 +34,8 @@
 <img src="https://img.shields.io/badge/Branch-Electronics%20%26%20Computer%20Engineering-6aa84f?style=for-the-badge" />
 </p>
 
-## 👨 About Me  
+<h1 align="center "> 💫 About Me </h1>
+  
 <h1>𝕬 𝖈𝖚𝖗𝖎𝖔𝖚𝖘 𝖇𝖚𝖎𝖑𝖉𝖊𝖗 𝖜𝖍𝖔 𝖇𝖊𝖑𝖎𝖊𝖛𝖊𝖘 𝖎𝖓 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝖇𝖞 𝖉𝖔𝖎𝖓𝖌</h1>
 
 - 🎓 ECC undergrad at **MBM University**  
