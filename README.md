@@ -5,65 +5,58 @@
 </p>
 
 
-<!-- Profile README -->
 
-<h1 align="center">Hi, I'm Shiv Yadav 👨‍💻</h1>
+
+
 
 <p align="center">
-  <b>CSE Undergrad @ MBM University</b> 🎓
+  <b>𝓔𝓒𝓒 𝓤𝓷𝓭𝓮𝓻𝓰𝓻𝓪𝓭 @ 𝓜𝓑𝓜 𝓤𝓷𝓲𝓿𝓮𝓻𝓼𝓲𝓽𝔂</b> 🎓
 </p>
 
 <p align="center">
-  <!-- Replace with boy coding GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Boy" width="500"/>
+  <!-- Hacker type coding boy GIF (small) -->
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" alt="Hacker Boy" width="300"/>
 </p>
 
 <p align="center">
   ⚡ Turning late-night coding sessions into innovative solutions 🌙  
   <br>
-  🚀 Currently building <a href="#">Cool Projects</a> ✨
+  🚀 Currently building <a href="#">Credit Card Fraud Detection</a> ✨
 </p>
 
 ---
 
 ## 👨 About Me  
+<h1>𝕬 𝖈𝖚𝖗𝖎𝖔𝖚𝖘 𝖇𝖚𝖎𝖑𝖉𝖊𝖗 𝖜𝖍𝖔 𝖇𝖊𝖑𝖎𝖊𝖛𝖊𝖘 𝖎𝖓 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝖇𝖞 𝖉𝖔𝖎𝖓𝖌</h1>
 
-- 🎓 CSE undergrad at **MBM University**  
+- 🎓 ECC undergrad at **MBM University**  
 - 💻 Passionate about **full-stack dev, AI/ML, and robotics**  
-- 🌟 Founder of cool beginner-friendly projects!  
 - 🤝 Quick learner with **team spirit** and a collaborative mindset  
 - 🚀 Always exploring new tech, currently working on exciting stuff  
-- 🌐 Check out more about me at: [My Portfolio](#)
-
----
+- 🌐 Portfolio: <a href="https://shiv77yadav.github.io/MyPortfolio/" target="_blank">shiv77yadav.github.io/MyPortfolio</a>
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,netlify,vercel,firebase,c,mysql,git,github" />
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv-ai&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv-ai&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/shiv-kumar-yadav-608105369" target="_blank">
-    <img src="https://img.shields.io/badge/-Shiv%20Yadav-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/shiv-ai" target="_blank">
-    <img src="https://img.shields.io/badge/-Shiv%20Yadav-black?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&weight=700&pause=1200&center=true&vCenter=true&width=900&lines=Let's+connect+and+build+mind-blowing+projects;Open+to+collabs+%26+internships" alt="Let's connect typing banner" />
 </p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiv.77yadav/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-kumar-yadav77/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivyadav33097@gmail.com)
+
+# 📊 GitHub Stats:
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shiv77yadav&show_icons=true&theme=radical" height="200"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv77yadav&layout=compact&theme=radical" height="200"/>
+</p>
+
+<br>
+
