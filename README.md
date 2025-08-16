@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <!-- Hacker type coding boy GIF (small) -->
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" alt="Hacker Boy" width="300"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Hacker Matrix" width="400"/>
 </p>
+
 
 <p align="center">
   ⚡ Turning late-night coding sessions into innovative solutions 🌙  
