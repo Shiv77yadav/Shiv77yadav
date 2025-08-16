@@ -12,9 +12,12 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" 
-       alt="Cyberpunk Coder" width="300"/>
+  <img src="https://media.giphy.com/media/3o7TKP9F64tjF2hXLG/giphy.gif" 
+       alt="Anime Night Coder" width="300"/>
 </p>
+
+
+
 
 
 <p align="center">
