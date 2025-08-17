@@ -26,9 +26,10 @@
   <br>
   🚀 Currently building <a href="#">Credit Card Fraud Detection</a> ✨
 </p>
-<!-- Stylish Animated Wave Line -->
+
+<!-- Animated Gradient Line -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="6px">
 </p>
 
 
@@ -39,11 +40,13 @@
 
 <img src="https://img.shields.io/badge/Branch-Electronics%20%26%20Computer%20Engineering-6aa84f?style=for-the-badge" />
 </p>
-
-<!-- Stylish Animated Wave Line -->
+<!-- Animated Gradient Line -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="6px">
 </p>
+
+
+
 
 <h1 align="center "> 💫 About Me </h1>
   
@@ -87,8 +90,12 @@
   </a>
 
    <h1 align="center "> 𝕷𝖊𝖙’𝖘 𝖇𝖚𝖎𝖑𝖉 𝖘𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖊𝖝𝖈𝖊𝖕𝖙𝖎𝖔𝖓𝖆𝖑.🚀</h1>
+   
 </p>
-
+<!-- Stylish Animated Wave Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 # 📊 GitHub Stats:
