@@ -27,14 +27,7 @@
   🚀 Currently building <a href="#">Credit Card Fraud Detection</a> ✨
 </p>
 
-<p align="center">
-  <!-- Clean & Crisp Rainbow Line GIF -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" 
-       alt="Clean & Crisp Rainbow Line" 
-       width="500" 
-       style="background-color:white;"/>
-</p>
-
+<div style="width:100%; height:4px; background:linear-gradient(90deg, red,orange,yellow,green,blue,indigo,violet); background-size:400% 400%; animation:rainbow 3s linear infinite;"></div><style>@keyframes rainbow{0%{background-position:0% 50%;}50%{background-position:100% 50%;}100%{background-position:0% 50%;}}</style>
 
 
 
@@ -47,10 +40,8 @@
 
 <img src="https://img.shields.io/badge/Branch-Electronics%20%26%20Computer%20Engineering-6aa84f?style=for-the-badge" />
 </p>
-<!-- Animated Gradient Line -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="6px">
-</p>
+
+<div style="width:100%; height:4px; background:linear-gradient(90deg, red,orange,yellow,green,blue,indigo,violet); background-size:400% 400%; animation:rainbow 3s linear infinite;"></div><style>@keyframes rainbow{0%{background-position:0% 50%;}50%{background-position:100% 50%;}100%{background-position:0% 50%;}}</style>
 
 
 
