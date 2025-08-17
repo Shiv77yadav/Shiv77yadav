@@ -85,10 +85,10 @@
   <a href="https://www.codechef.com/users/shivyadav_07" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-
+</p>
    <h1 align="center "> 𝕷𝖊𝖙’𝖘 𝖇𝖚𝖎𝖑𝖉 𝖘𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖊𝖝𝖈𝖊𝖕𝖙𝖎𝖔𝖓𝖆𝖑.🚀</h1>
    
-</p>
+
 <!-- Stylish Animated Wave Line -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
