@@ -45,19 +45,15 @@
 <h1 align="center "> 💫 About Me </h1>
   
 <h1 align = "center">𝕬 𝖈𝖚𝖗𝖎𝖔𝖚𝖘 𝖇𝖚𝖎𝖑𝖉𝖊𝖗 𝖜𝖍𝖔 𝖇𝖊𝖑𝖎𝖊𝖛𝖊𝖘 𝖎𝖓 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝖇𝖞 𝖉𝖔𝖎𝖓𝖌</h1>
- <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
+ 
 
 - 🎓 ECC undergrad at **MBM University**  
 - 💻 Passionate about **full-stack dev, AI/ML, and robotics**  
 - 🤝 Quick learner with **team spirit** and a collaborative mindset  
 - 🚀 Always exploring new tech, currently working on exciting stuff  
 - 🌐 Portfolio: <a href="https://shiv77yadav.github.io/MyPortfolio/" target="_blank">shiv77yadav.github.io/MyPortfolio</a>
-<br>
-<p align="center">
-  <strong style="font-size:50px;">🛠 Tech Stack</strong>
-</p>
-  
- <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
+
+## 🛠 Tech Stack <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,netlify,vercel,firebase,c,mysql,git,github" />
@@ -100,8 +96,7 @@
 
 
 # 📊 GitHub Stats:
- <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
-
+ 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Shiv77yadav&show_icons=true&theme=radical" height="200"/>
@@ -109,5 +104,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv77yadav&layout=compact&theme=radical" height="200"/>
 </p>
 
-<br>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+<br>
