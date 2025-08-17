@@ -39,7 +39,7 @@
 
 <h1 align="center "> 💫 About Me </h1>
   
-<h1>𝕬 𝖈𝖚𝖗𝖎𝖔𝖚𝖘 𝖇𝖚𝖎𝖑𝖉𝖊𝖗 𝖜𝖍𝖔 𝖇𝖊𝖑𝖎𝖊𝖛𝖊𝖘 𝖎𝖓 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝖇𝖞 𝖉𝖔𝖎𝖓𝖌</h1>
+<h1 align = "center">𝕬 𝖈𝖚𝖗𝖎𝖔𝖚𝖘 𝖇𝖚𝖎𝖑𝖉𝖊𝖗 𝖜𝖍𝖔 𝖇𝖊𝖑𝖎𝖊𝖛𝖊𝖘 𝖎𝖓 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝖇𝖞 𝖉𝖔𝖎𝖓𝖌</h1>
 
 - 🎓 ECC undergrad at **MBM University**  
 - 💻 Passionate about **full-stack dev, AI/ML, and robotics**  
@@ -78,7 +78,7 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 
-   <h1 align="center "> 𝕷𝖊𝖙’𝖘 𝖇𝖚𝖎𝖑𝖉 𝖘𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖊𝖝𝖈𝖊𝖕𝖙𝖎𝖔𝖓𝖆𝖑.</h1>🚀
+   <h1 align="center "> 𝕷𝖊𝖙’𝖘 𝖇𝖚𝖎𝖑𝖉 𝖘𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖊𝖝𝖈𝖊𝖕𝖙𝖎𝖔𝖓𝖆𝖑.🚀</h1>
 </p>
 
 
