@@ -45,6 +45,7 @@
 <h1 align="center "> 💫 About Me </h1>
   
 <h1 align = "center">𝕬 𝖈𝖚𝖗𝖎𝖔𝖚𝖘 𝖇𝖚𝖎𝖑𝖉𝖊𝖗 𝖜𝖍𝖔 𝖇𝖊𝖑𝖎𝖊𝖛𝖊𝖘 𝖎𝖓 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝖇𝖞 𝖉𝖔𝖎𝖓𝖌</h1>
+ <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
 
 - 🎓 ECC undergrad at **MBM University**  
 - 💻 Passionate about **full-stack dev, AI/ML, and robotics**  
@@ -53,6 +54,7 @@
 - 🌐 Portfolio: <a href="https://shiv77yadav.github.io/MyPortfolio/" target="_blank">shiv77yadav.github.io/MyPortfolio</a>
 
 ## 🛠️ Tech Stack  
+ <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,netlify,vercel,firebase,c,mysql,git,github" />
@@ -60,6 +62,7 @@
 
 
 ## 🤝 Connect With Me
+ <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1200&color=FF3B3B&center=true&vCenter=true&width=900&lines=Let%27s+connect+%26+build+mind-blowing+projects;Open+to+collabs+%E2%80%A2+internships+%E2%80%A2+ideas" alt="Typing SVG" />
@@ -93,6 +96,7 @@
 
 
 # 📊 GitHub Stats:
+ <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
 
 
 <p align="center">
