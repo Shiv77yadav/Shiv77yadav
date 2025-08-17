@@ -27,10 +27,11 @@
   🚀 Currently building <a href="#">Credit Card Fraud Detection</a> ✨
 </p>
 
-<!-- Animated Gradient Line -->
+<!-- Colorful Animated Line -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="6px">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
 </p>
+
 
 
 <p align="center">
