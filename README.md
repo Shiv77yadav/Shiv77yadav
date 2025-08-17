@@ -60,7 +60,7 @@
 </p>
 
 
-<h1 align = "left">🤝 Connect With Me<h1> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
+## 🤝 Connect With Me <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1200&color=FF3B3B&center=true&vCenter=true&width=900&lines=Let%27s+connect+%26+build+mind-blowing+projects;Open+to+collabs+%E2%80%A2+internships+%E2%80%A2+ideas" alt="Typing SVG" />
