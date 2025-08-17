@@ -61,7 +61,8 @@
 </p>
 
 
-🤝 Connect With Me
+<h1 align = "left">🤝 Connect With Me</h1>
+  
  <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
 
 <p align="center">
