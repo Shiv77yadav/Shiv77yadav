@@ -26,8 +26,11 @@
   <br>
   🚀 Currently building <a href="#">Credit Card Fraud Detection</a> ✨
 </p>
+<!-- Stylish Animated Wave Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
----
 
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=Shiv77yadav&style=for-the-badge&color=0e75b6">
@@ -35,6 +38,11 @@
 </a>
 
 <img src="https://img.shields.io/badge/Branch-Electronics%20%26%20Computer%20Engineering-6aa84f?style=for-the-badge" />
+</p>
+
+<!-- Stylish Animated Wave Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <h1 align="center "> 💫 About Me </h1>
