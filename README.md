@@ -53,7 +53,7 @@
 - 🚀 Always exploring new tech, currently working on exciting stuff  
 - 🌐 Portfolio: <a href="https://shiv77yadav.github.io/MyPortfolio/" target="_blank">shiv77yadav.github.io/MyPortfolio</a>
 <p align="left">
-  <span style="font-size:28px; font-weight:bold;">🛠 Tech Stack</span>
+  <span style="font-size:60px; font-weight:bold;">🛠 Tech Stack</span>
 </p>
   
  <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
