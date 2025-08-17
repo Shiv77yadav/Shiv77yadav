@@ -27,9 +27,11 @@
   🚀 Currently building <a href="#">Credit Card Fraud Detection</a> ✨
 </p>
 
+<!-- Sharp & Crisp Rainbow Line -->
 <p align="center">
-  <img src="https://i.ibb.co/7rzJ3wD/rainbow-line.png" alt="Rainbow Line" width="600"/>
+  <img src="https://i.ibb.co/YT5r7B1/sharp-rainbow-line.png" width="100%" height="4px"/>
 </p>
+
 
 
 
@@ -41,8 +43,9 @@
 <img src="https://img.shields.io/badge/Branch-Electronics%20%26%20Computer%20Engineering-6aa84f?style=for-the-badge" />
 </p>
 
+<!-- Sharp & Crisp Rainbow Line -->
 <p align="center">
-  <img src="https://i.ibb.co/7rzJ3wD/rainbow-line.png" alt="Rainbow Line" width="600"/>
+  <img src="https://i.ibb.co/YT5r7B1/sharp-rainbow-line.png" width="100%" height="4px"/>
 </p>
 
 
