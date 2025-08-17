@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/7efs.gif" alt="Colorful Animated Line" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ManasUniyal/animated-rainbow-line/main/rainbow_line.svg" width="100%"/>
 </p>
 
 
