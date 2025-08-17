@@ -28,19 +28,10 @@
 </p>
 
 <p align="center">
-  <svg width="250" height="4">
-    <defs>
-      <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="red"/>
-        <stop offset="20%" stop-color="orange"/>
-        <stop offset="40%" stop-color="yellow"/>
-        <stop offset="60%" stop-color="green"/>
-        <stop offset="80%" stop-color="blue"/>
-        <stop offset="100%" stop-color="violet"/>
-      </linearGradient>
-    </defs>
-    <rect width="250" height="4" fill="url(#rainbow)" />
-  </svg>
+  <!-- Sharp Rainbow Line GIF for Readme -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" 
+       alt="Sharp Rainbow Line" 
+       width="400"/>
 </p>
 
 
