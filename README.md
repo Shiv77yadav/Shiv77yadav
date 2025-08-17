@@ -27,9 +27,9 @@
   🚀 Currently building <a href="#">Credit Card Fraud Detection</a> ✨
 </p>
 
-<div style="width:100%; height:4px; background:linear-gradient(90deg, red,orange,yellow,green,blue,indigo,violet); background-size:400% 400%; animation:rainbow 3s linear infinite;"></div><style>@keyframes rainbow{0%{background-position:0% 50%;}50%{background-position:100% 50%;}100%{background-position:0% 50%;}}</style>
-
-
+<p align="center">
+  <img src="https://i.ibb.co/7rzJ3wD/rainbow-line.png" alt="Rainbow Line" width="600"/>
+</p>
 
 
 
@@ -41,7 +41,9 @@
 <img src="https://img.shields.io/badge/Branch-Electronics%20%26%20Computer%20Engineering-6aa84f?style=for-the-badge" />
 </p>
 
-<div style="width:100%; height:4px; background:linear-gradient(90deg, red,orange,yellow,green,blue,indigo,violet); background-size:400% 400%; animation:rainbow 3s linear infinite;"></div><style>@keyframes rainbow{0%{background-position:0% 50%;}50%{background-position:100% 50%;}100%{background-position:0% 50%;}}</style>
+<p align="center">
+  <img src="https://i.ibb.co/7rzJ3wD/rainbow-line.png" alt="Rainbow Line" width="600"/>
+</p>
 
 
 
