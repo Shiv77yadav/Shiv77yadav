@@ -28,10 +28,11 @@
 </p>
 
 <p align="center">
-  <!-- Sharp Rainbow Line GIF for Readme -->
+  <!-- Clean & Crisp Rainbow Line GIF -->
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" 
-       alt="Sharp Rainbow Line" 
-       width="400"/>
+       alt="Clean & Crisp Rainbow Line" 
+       width="500" 
+       style="background-color:white;"/>
 </p>
 
 
