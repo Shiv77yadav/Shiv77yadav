@@ -28,8 +28,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ManasUniyal/animated-rainbow-line/main/rainbow_line.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/rainbow.png" alt="Rainbow Line" width="200"/>
 </p>
+
 
 
 
