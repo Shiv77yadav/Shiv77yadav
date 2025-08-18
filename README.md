@@ -51,7 +51,7 @@
 - 💻 Passionate about **full-stack dev, AI/ML, and robotics**  
 - 🤝 Quick learner with **team spirit** and a collaborative mindset  
 - 🚀 Always exploring new tech, currently working on exciting stuff  
-- 🌐 Portfolio: <a href="https://shiv77yadav.github.io/MyPortfolio/" target="_blank">shiv77yadav.github.io/MyPortfolio</a>
+- 🌐 Portfolio: <a href="https://therealonee.netlify.app/" target="_blank">https://therealonee.netlify.app/</a>
 
 ## 🛠 Tech Stack <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
 
