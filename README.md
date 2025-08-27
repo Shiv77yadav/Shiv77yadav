@@ -59,7 +59,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,netlify,vercel,firebase,c,mysql,git,github" />
 </p>
 
-### Dark Mode
+
 ![GitHub Snake dark](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.svg#gh-dark-mode-only)
 ![GitHub Snake dark gif](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.gif#gh-dark-mode-only)
 
