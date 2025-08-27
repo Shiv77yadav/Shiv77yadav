@@ -92,6 +92,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+# 🐍 
+
+
+![snake gif](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.gif)
+
+![snake svg](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
+
 
 # 📊 GitHub Stats:
  
