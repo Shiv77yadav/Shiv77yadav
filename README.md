@@ -59,6 +59,10 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,netlify,vercel,firebase,c,mysql,git,github" />
 </p>
 
+### Dark Mode
+![GitHub Snake dark](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.svg#gh-dark-mode-only)
+![GitHub Snake dark gif](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.gif#gh-dark-mode-only)
+
 
 ## 🤝 Connect With Me <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
 
@@ -92,15 +96,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-# 🐍 Contribution Snake
 
-### Dark Mode
-![GitHub Snake dark](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.svg#gh-dark-mode-only)
-![GitHub Snake dark gif](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.gif#gh-dark-mode-only)
-
-### Light Mode
-![GitHub Snake light](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.svg#gh-light-mode-only)
-![GitHub Snake light gif](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.gif#gh-light-mode-only)
 
 
 
