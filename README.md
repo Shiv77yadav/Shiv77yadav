@@ -92,12 +92,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-# 🐍 
+# 🐍 Contribution Snake
+
+### Dark Mode
+![GitHub Snake dark](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.svg#gh-dark-mode-only)
+![GitHub Snake dark gif](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.gif#gh-dark-mode-only)
+
+### Light Mode
+![GitHub Snake light](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.svg#gh-light-mode-only)
+![GitHub Snake light gif](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.gif#gh-light-mode-only)
 
 
-![snake gif](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.gif)
-
-![snake svg](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
 
 
 # 📊 GitHub Stats:
