@@ -52,7 +52,8 @@
 - 🚀 Always exploring new tech, currently working on exciting stuff  
 - 🌐 Portfolio: <a href="https://therealonee.netlify.app/" target="_blank">https://therealonee.netlify.app/</a>
 
-## 🛠 Tech Stack <p align="center"> <img <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+## 🛠 Tech Stack <p align="center"> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,netlify,vercel,firebase,c,mysql,git,github" />
@@ -63,7 +64,8 @@
 ![GitHub Snake dark gif](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.gif#gh-dark-mode-only)
 
 
-## 🤝 Connect With Me <p align="center"> <img <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+## 🤝 Connect With Me <p align="center"> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1200&color=FF3B3B&center=true&vCenter=true&width=900&lines=Let%27s+connect+%26+build+mind-blowing+projects;Open+to+collabs+%E2%80%A2+internships+%E2%80%A2+ideas" alt="Typing SVG" />
