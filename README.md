@@ -27,7 +27,7 @@
   🚀 Currently building <a href="#">Credit Card Fraud Detection</a> ✨
 </p>
 
- <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
