@@ -38,8 +38,7 @@
 
 <img src="https://img.shields.io/badge/Branch-Electronics%20%26%20Computer%20Engineering-6aa84f?style=for-the-badge" />
 </p>
-<!-- Colorful Animated Line --> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <h1 align="center "> 💫 About Me </h1>
@@ -53,7 +52,7 @@
 - 🚀 Always exploring new tech, currently working on exciting stuff  
 - 🌐 Portfolio: <a href="https://therealonee.netlify.app/" target="_blank">https://therealonee.netlify.app/</a>
 
-## 🛠 Tech Stack <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
+## 🛠 Tech Stack <p align="center"> <img <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,netlify,vercel,firebase,c,mysql,git,github" />
@@ -64,7 +63,7 @@
 ![GitHub Snake dark gif](https://raw.githubusercontent.com/Shiv77yadav/Shiv77yadav/output/snake.gif#gh-dark-mode-only)
 
 
-## 🤝 Connect With Me <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/> </p>
+## 🤝 Connect With Me <p align="center"> <img <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1200&color=FF3B3B&center=true&vCenter=true&width=900&lines=Let%27s+connect+%26+build+mind-blowing+projects;Open+to+collabs+%E2%80%A2+internships+%E2%80%A2+ideas" alt="Typing SVG" />
@@ -91,10 +90,7 @@
    <h1 align="center "> 𝕷𝖊𝖙’𝖘 𝖇𝖚𝖎𝖑𝖉 𝖘𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖊𝖝𝖈𝖊𝖕𝖙𝖎𝖔𝖓𝖆𝖑.🚀</h1>
    
 
-<!-- Stylish Animated Wave Line -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
