@@ -115,3 +115,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 <br>
+<h3 align="left">🌱 Support</h3>
+<a href="https://www.buymeacoffee.com/frankiefab100" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
